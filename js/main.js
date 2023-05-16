@@ -68,22 +68,22 @@
             datasets: [{
                     label: "Temperatura",
                     data: [15, 30, 55, 65, 60, 80, 95],
-                    backgroundColor: "rgba(0, 156, 255, .7)"
+                    backgroundColor: "rgba(0, 156, 255, .10)"
                 },
                 {
                     label: "FC",
                     data: [8, 35, 40, 60, 70, 55, 75],
-                    backgroundColor: "rgba(0, 156, 255, .5)"
+                    backgroundColor: "rgba(0, 156, 255, .7)"
                 },
                 {
                     label: "SpO2",
                     data: [12, 25, 45, 55, 65, 70, 60],
-                    backgroundColor: "rgba(0, 156, 255, .3)"
+                    backgroundColor: "rgba(0, 156, 255, .5)"
                 },
                 {
                     label: "Estres",
                     data: [12, 25, 45, 55, 65, 70, 60],
-                    backgroundColor: "rgba(0, 156, 255, .1)"
+                    backgroundColor: "rgba(0, 156, 255, .3)"
                 }
             ]
             },
